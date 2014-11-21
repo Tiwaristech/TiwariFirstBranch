@@ -9,3 +9,5 @@ void main()
 	printf("the sum is :",c);
   getch();
 }
+output: enter two int no 5 6
+the sum is 11
