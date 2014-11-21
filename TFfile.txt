@@ -2,4 +2,8 @@
 #include<conio.h>
 void main()
 {
+  clrscr();
+  printf("enter the two int no")
+  scanf("%d%d,&a,&b");
+  getch();
 }
